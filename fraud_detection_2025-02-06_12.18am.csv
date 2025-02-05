@@ -1,0 +1,5 @@
+﻿"Key","Issue Type","Parent","Summary","Status","Assignee","Start date","Due date"
+"FD-1","Task","","EDA (Exploratory Data Analysis)","Done","Ahmet Yazgan","2024/12/15","2024/12/17"
+"FD-3","Task","","Feature Engineering","Done","Nigar Ali","2024/12/19","2024/12/23"
+"FD-8","Task","","Model Training","Done","Caner Alp Tatar","2025/01/01","2025/01/05"
+"FD-22","Task","","Models Evaluation","Done","Elif Yasarc","2025/01/06","2025/01/10"
