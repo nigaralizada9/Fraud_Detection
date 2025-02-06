@@ -1,0 +1,19 @@
+﻿Issue Type,Issue key,Issue id,Summary,Assignee,Assignee Id,Reporter,Reporter Id,Priority,Status,Resolution,Created,Updated,Due date
+Sub-task,FD-23,10022,Compare Model Performance,,,Nigar Ali,712020:d750a061-1f45-40d9-a4c5-82aa737589f1,Medium,To Do,,30/Jan/25 1:39 PM,30/Jan/25 1:40 PM,
+Task,FD-22,10021,Models Evaluation,Elif Yasarc,712020:6303d758-ce6a-4020-87c5-b88fa29b8d20,Nigar Ali,712020:d750a061-1f45-40d9-a4c5-82aa737589f1,Medium,Done,Done,30/Jan/25 1:38 PM,05/Feb/25 9:18 PM,10/Jan/25 12:00 AM
+Sub-task,FD-21,10020,Train XGBoost Model,,,Nigar Ali,712020:d750a061-1f45-40d9-a4c5-82aa737589f1,Medium,To Do,,30/Jan/25 1:37 PM,30/Jan/25 1:37 PM,
+Sub-task,FD-20,10019,Train AdaBoost Model,,,Nigar Ali,712020:d750a061-1f45-40d9-a4c5-82aa737589f1,Medium,To Do,,30/Jan/25 1:36 PM,30/Jan/25 1:36 PM,
+Sub-task,FD-19,10018,Feature Scaling,,,Nigar Ali,712020:d750a061-1f45-40d9-a4c5-82aa737589f1,Medium,To Do,,30/Jan/25 1:29 PM,30/Jan/25 1:30 PM,
+Sub-task,FD-18,10017,Descriptive Statistics for Numerical Columns and Categoric columns,,,Nigar Ali,712020:d750a061-1f45-40d9-a4c5-82aa737589f1,Medium,To Do,,30/Jan/25 1:23 PM,30/Jan/25 1:23 PM,
+Sub-task,FD-17,10016,Categorical and Numerical Columns,,,Nigar Ali,712020:d750a061-1f45-40d9-a4c5-82aa737589f1,Medium,To Do,,30/Jan/25 1:22 PM,30/Jan/25 1:22 PM,
+Sub-task,FD-16,10015,Data Shape,,,Nigar Ali,712020:d750a061-1f45-40d9-a4c5-82aa737589f1,Medium,To Do,,30/Jan/25 1:21 PM,30/Jan/25 1:22 PM,
+Sub-task,FD-10,10009,Train Decision Tree Model:,,,Nigar Ali,712020:d750a061-1f45-40d9-a4c5-82aa737589f1,Medium,To Do,,30/Jan/25 12:38 PM,30/Jan/25 1:36 PM,
+Sub-task,FD-9,10008,Logistic regression,,,Nigar Ali,712020:d750a061-1f45-40d9-a4c5-82aa737589f1,Medium,To Do,,30/Jan/25 12:38 PM,30/Jan/25 1:35 PM,
+Task,FD-8,10007,Model Training,Caner Alp Tatar,5ecbf6f1aa47a00c197f749a,Nigar Ali,712020:d750a061-1f45-40d9-a4c5-82aa737589f1,Medium,Done,Done,30/Jan/25 12:38 PM,05/Feb/25 9:17 PM,05/Jan/25 12:00 AM
+Sub-task,FD-7,10006,Encoding Categorical Variables,,,Nigar Ali,712020:d750a061-1f45-40d9-a4c5-82aa737589f1,Medium,To Do,,30/Jan/25 12:37 PM,30/Jan/25 1:29 PM,
+Sub-task,FD-6,10005,Detect Outliers and Handle Them,,,Nigar Ali,712020:d750a061-1f45-40d9-a4c5-82aa737589f1,Medium,To Do,,30/Jan/25 12:37 PM,30/Jan/25 1:29 PM,
+Sub-task,FD-5,10004,Impute Missing Values,,,Nigar Ali,712020:d750a061-1f45-40d9-a4c5-82aa737589f1,Medium,To Do,,30/Jan/25 12:36 PM,30/Jan/25 1:28 PM,
+Sub-task,FD-4,10003,Split Data into Train and Test,,,Nigar Ali,712020:d750a061-1f45-40d9-a4c5-82aa737589f1,Medium,To Do,,30/Jan/25 12:36 PM,30/Jan/25 1:27 PM,
+Task,FD-3,10002,Feature Engineering,Nigar Ali,712020:d750a061-1f45-40d9-a4c5-82aa737589f1,Nigar Ali,712020:d750a061-1f45-40d9-a4c5-82aa737589f1,Medium,Done,Done,30/Jan/25 12:36 PM,05/Feb/25 9:17 PM,23/Dec/24 12:00 AM
+Sub-task,FD-2,10001,Checked Data Types:,,,Nigar Ali,712020:d750a061-1f45-40d9-a4c5-82aa737589f1,Medium,To Do,,30/Jan/25 12:36 PM,30/Jan/25 1:21 PM,
+Task,FD-1,10000,EDA (Exploratory Data Analysis),Ahmet Yazgan,712020:b503704a-341c-4691-95ad-ba7a8871cd87,Nigar Ali,712020:d750a061-1f45-40d9-a4c5-82aa737589f1,Medium,Done,Done,30/Jan/25 12:35 PM,05/Feb/25 9:17 PM,17/Dec/24 12:00 AM
