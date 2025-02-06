@@ -17,10 +17,10 @@ Eda for categorical column
 
 
 ##FEATURE ENGINEERING
-Methods of Feature engineering: 
+Methods of Feature engineering:
+test train split method : Stratified K fold method
 IQR,LOF method for identifyng and handling outlier
-Feature scaling of numerical columns
-Encoding of categorical columns
+Encoding method: One hot encoding
 
 
 MODELS USED IN THIS PROJECT:
@@ -33,4 +33,5 @@ Ada Boost
 MODEL EVALUATION:
 Model is evaluated and best model is XBG Boost
 
+Feature Selection method : Embed Method
 
